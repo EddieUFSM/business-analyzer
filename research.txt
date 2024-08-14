@@ -1,0 +1,461 @@
+1;Vytalize Health;90,78%;Health Services;NJ;Hoboken
+2;Lessen;45,60%;Software;AZ;Scottsdale
+3;Monogram Health;43,85%;Health Services;TN;Brentwood
+4;Top Tier Solar Solutions;41,10%;Energy;NC;Charlotte
+5;ABA Centers of America;32,19%;Health Services;FL;Fort Lauderdale
+6;Upward Health;30,72%;Health Services;NY;Hauppauge, New York
+7;Carbliss;27,17%;Food & Beverage;WI;Plymouth
+8;Bounce;19,78%;Travel & Hospitality;CA;San Francisco
+9;Raw Sport Supplement Company;17,64%;Consumer Products;FL;Port st lucie
+10;Alpine IQ;16,47%;Software;CO;Broomfield
+11;KashKick;16,10%;Consumer Products;FL;Tampa
+12;Autosled;14,00%;Logistics & Transportation;MD;Rockville
+13;Cowbell;13,50%;Insurance;CA;Pleasanton
+14;Skyline Smart Energy;11,86%;Energy;CA;Downey
+15;StatusPro;11,38%;Consumer Products;FL;Miami
+16;Marketcall;11,19%;Advertising & Marketing;CA;Pasadena
+17;COMPEO;10,92%;Human Resources;FL;Dania
+18;Ascend Agency;10,62%;Advertising & Marketing;CA;Irvine
+19;The Woobles;10,41%;Consumer Products;NC;Chapel Hill
+20;Kodiak;10,11%;Logistics & Transportation;CA;Mountain View
+21;Wisetack;10,01%;Financial Services;OR;Beaverton
+22;DQS Solutions & Staffing;9,91%;Human Resources;MI;Dearborn
+23;EJL Entertainment;9,71%;Food & Beverage;CA;San Gabriel
+24;Tarana Wireless;9,51%;Telecommunications;CA;Milpitas
+25;Liberty1 Financial;9,18%;Financial Services;CA;Irvine
+26;Auxilior Capital Partners;8,92%;Financial Services;PA;Plymouth Meeting
+24;Tarana Wireless;9,51%;Telecommunications;CA;Milpitas
+25;Liberty1 Financial;9,18%;Financial Services;CA;Irvine
+26;Auxilior Capital Partners;8,92%;Financial Services;PA;Plymouth Meeting
+27;Uwill;8,72%;Health Services;MA;Natick
+28;Clutch;8,12%;Advertising & Marketing;DC;Washington DC
+29;Gordian Staffing;8,12%;Human Resources;NE;Omaha
+30;Superfan Live;7,91%;Travel & Hospitality;FL;Clearwater
+31;Forest Media Group;7,66%;Advertising & Marketing;NY;New York
+32;Segment HR;7,35%;Government Services;TX;The Woodlands
+33;EDM Leads;7,32%;Advertising & Marketing;AZ;Gilbert
+34;Chaberton Energy;7,30%;Energy;MD;Rockville
+35;Why Unified;7,19%;Business Products & Services;DE;Newark
+36;Zap Mortgage;7,18%;Financial Services;FL;Sarasota
+37;Kin Insurance;7,05%;Insurance;IL;Chicago
+38;Maev;6,74%;Consumer Products;TX;Austin
+39;DebtBook;6,72%;Software;NC;Charlotte
+40;Gamefam;6,39%;Media;CA;Los Angeles
+41;Snappt;6,32%;Artificial Intelligence;CA;Ojai
+42;GoTu Technology;6,28%;Human Resources;FL;Miami
+43;Team GO Ventures;6,27%;Advertising & Marketing;AR;Bentonville
+44;Amara;6,25%;Food & Beverage;CA;San Francisco
+45;FlyUSA;6,22%;Travel & Hospitality;FL;Clearwater
+46;Archer Review;5,77%;Health Services;TX;DALLAS
+47;i80 Group;5,71%;Financial Services;NY;New York
+48;CleanFiber;5,68%;Manufacturing;NY;Blasdell
+49;PL360°;5,57%;Financial Services;CA;Chula Vista
+50;Panda Exteriors;5,50%;Construction;MD;Laurel
+51;Dryeye Rescue;5,47%;Advertising & Marketing;FL;Boca Raton
+52;CityLight Homes;5,23%;Real Estate;MA;Peabody
+53;Blu Omega;5,22%;IT Services;VA;ASHBURN
+54;The Luxe Room;5,02%;Consumer Services;CO;Denver
+55;Like Air;5,00%;Food & Beverage;NJ;Madison
+56;Sharebite;4,91%;Business Products & Services;NY;New York
+57;Transparent Dental Group;4,89%;Health Services;IL;Oak Brook Terrace
+58;Mainfactor;4,86%;Software;PA;Philadelphia
+58;CourtAvenue;4,80%;Advertising & Marketing;CA;San Diego
+59;ProxyPics;4,79%;Software;IL;Chicago
+60;Brightside Windows;4,75%;Construction;OR;Portland
+61;Bucket List Events;4,74%;Travel & Hospitality;TX;The Hills
+62;Spot Pet Insurance;4,70%;Insurance;FL;Miami
+63;PRIORITY PLUS FINANCIAL;4,68%;Financial Services;CA;COSTA MESA
+64;Religion of Sports;4,67%;Media;CA;Los Angeles
+65;Empower Finance;4,60%;Financial Services;CA;San Francisco
+66;Crave Retail;4,37%;Software;TX;Austin
+67;PostPilot;4,28%;Consumer Products;SC;Spartanburg
+68;Fusion Power;4,25%;Energy;AZ;Chandler
+69;Slumber Stay;4,23%;Travel & Hospitality;IL;Chicago
+70;Canela Media;4,16%;Advertising & Marketing;NY;New York
+71;HeroDevs;4,11%;Business Products & Services;UT;Sandy
+72;StatPearls;4,03%;Education;FL;St Petersburg
+73;Earp Aviation Repairs;4,00%;Logistics & Transportation;AZ;Chandler
+74;wildwonder Brands;3,99%;Food & Beverage;CA;South San Francisco
+86;Viva Finance;3,70%;Financial Services;GA
+Atlanta
+87;Nectar;3,67%;Software;UT;Orem
+88;UMortgage;3,64%;Financial Services;PA;Philadelphia
+89;Dhanani Private Equity Group;3,62%;Real Estate;TX;Stafford
+90;Spartan Fitness Holdings;3,62%;Health Services;TN;Brentwood
+91;Spring Health;3,56%;Health Services;NY;New York City
+92;Drury Design;3,53%;Construction;IL;Glen Ellyn
+93;Giant Sports Cards;3,53%;Retail;GA;Alpharetta
+94;Sanguine Strategic Advisors;3,49%;Business Products & Services;IL;Chicago
+95;1upHealth;3,44%;Health Products;MA;Boston
+96;Hiring4Less;3,37%;Human Resources;NY;Monsey
+97;SoDella Construction;3,33%;Construction;AZ;Scottsdale
+98;Built By Grid;3,30%;Manufacturing;TX;Dallas
+99;Servos;3,25%;IT Services;VA;Richmond
+100;Beach Boss Influencers;3,23%;Advertising & Marketing;IN;Newburgh
+101;UPSTACK;3,19%;IT Services;NY;New York
+102;WBE Technologies;3,19%;Telecommunications;WA;Renton
+103;UltraCare Services;3,11%;Health Services;CA;Beverly Hills
+104;ConnectM Technology Solutions;3,08%;Energy;MA;Marlborough
+105;TrueBooks;3,07%;Financial Services;NV;Henderson
+106;Transfr;3,06%;Education;NY;New York
+107;Realty.com;3,05%;Real Estate;TX;Houston
+108;Titanium Tours;3,02%;Travel & Hospitality;NJ;Bedminster
+109;BRANWYN;3,01%;Consumer Products;OR;BEND
+110;Apex Coatings;3,00%;Construction;UT;Murray
+111;Refloor;2,98%;Consumer Products;MI;Troy
+112;C. R. Wannamaker Law;2,97%;Legal;TX;El Paso
+113;Arkos Health;2,95%;Health Services;AZ;Gilbert
+114;WorkBetterNow;2,94%;Business Products & Services;NY;New York
+115;LJV Development;2,90%;Construction;MA;Boston
+116;Resident Ventures;2,90%;Travel & Hospitality;NY;New York
+117;XIL Health;2,87%;Health Services;FL;Estero
+118;OneroRx;2,86%;Health Services;IA;West Des Moines
+119;Cynet Health;2,85%;Human Resources;VA;Sterling
+120;ThreatLocker®;2,85%;Security;FL;Orlando
+121;Awestruck;2,81%;Advertising & Marketing;PA;Bethlehem
+122;Cornbread Hemp;2,80%;Consumer Products;KY;Louisville
+123;National Consulting Partners;2,80%;Government Services;VA;Woodbridge
+124;I 55 Book Fairs;2,80%;Retail;TX;Bryan
+125;Nutriient;2,75%;Manufacturing;UT;Lindon
+126;Summit Medical Staffing;2,75%;Human Resources;NE;Fremont
+127;TruDiagnostic;2,71%;Health Services;KY;Lexngton
+128;PatientFi;2,68%;Financial Services;CA;Irvine
+129;Sandbox VR;2,68%;Arts & Entertainment;CA;Pleasanton
+130;Valor Paytech;2,65%;Financial Services;NY;Jericho
+131;iSolutions Payments;2,65%;Software;IN;Zionsville
+132;Already Autism Health;2,61%;Health Services;NC;Charlotte
+133;Life Changing Energy;2,59%;Education;MI;Brighton
+134;ANOVA Digital;2,58%;Advertising & Marketing;TX;Richardson
+135;KESTA IT;2,52%;Human Resources;UT;Salt Lake Cty
+136;Omega Foundation Services;2,52%;Construction;LA;Slaughter
+137;SparkPlug Applications;2,48%;Software;CA;San Francisco
+138;Black Canyon Consulting;2,48%;IT Services;VA;Fairfax
+139;Closinglock;2,48%;Software;TX;Austin
+140;Boulder Care;2,46%;Health Services;OR;Portland
+141;Vouched;2,44%;Software;WA;Seattle
+142;365 Labs;2,44%;Software;LA;Baton Rouge
+143;Lucid Bots;2,43%;Manufacturing;NC;Charlotte
+144;Coterie;2,41%;Consumer Products;NY;NEW YORK
+145;KlariVis;2,40%;Software;VA;Roanoke
+146;Prospect Events;2,39%;Business Products & Services;NY;White Plains
+147;The Plug Drink;2,38%;Food & Beverage;CA;Los Angeles
+148;Lively;2,38%;Human Resources;CA;San Francisco
+149;Grow Care Outdoor Solutions;2,36%;Construction;FL;North Fort Myers
+150;Praxis Labs;2,35%;Software;CA;Los Angeles
+151;Turnkey Tech Staffing;2,35%;Human Resources;CA;Menlo Park
+152;Invisible Technologies;2,34%;Artificial Intelligence;CA;San Francisco
+153;PROLIM Government Technologies;2,34%;Engineering;MI;Farmington Hills
+154;Aidentified;2,32%;Software;MA;Concord
+155;Ludus;2,32%;Software;MI;Holland
+156;Hawke Media;2,31%;Advertising & Marketing;CA;Santa Monica
+157;Five Star Franchising;2,30%;Business Products & Services;UT;Springville
+158;Clara Capital;2,30%;Financial Services;NY;Syosset
+159;Ladidadi;2,30%;Travel & Hospitality;IL;Clarendon Hills
+160;Haven Hot Chicken;2,29%;Food & Beverage;CT;New Haven
+161;H-PROOF;2,28%;Consumer Products;FL;Hallandale Beach
+162;Tenna;2,28%;Software;PA;New Hope
+163;Boulevard;2,28%;Software;CA;Los Angeles
+164;CloudServus;2,27%;IT Services;TX;Austin
+165;Nokking;2,27%;Logistics & Transportation;TX;Austin
+166;Findem;2,26%;Software;CA;Redwood City
+167;Maestro Media;2,25%;Business Products & Services;CO;Denver
+168;Numa;2,25%;Artificial Intelligence;CA;Lafayette
+169;Wakefield Biochar;2,24%;Environmental Services;GA;VALDOSTA
+170;Pneuma Media;2,24%;Advertising & Marketing;CO;Denver
+171;Telex;2,23%;Engineering;AR;Fayetteville
+172;DSP Connections;2,22%;Health Services;OR;Salem
+173;apiphani;2,21%;IT Services;MA;Boston
+174;OrnamentallyYou;2,20%;Consumer Products;NJ;Fair lawn
+175;Fusus;2,18%;Software;GA;Peachtree Corners,
+176;Aiden Technologies;2,18%;Security;TX;McKinney
+177;Element5;2,15%;Health Services;CA;San Jose
+178;Advanced Tech Placement;2,15%;Business Products & Services;GA;Marietta
+179;Visit.org;2,15%;Software;NY;New York
+180;RentRedi;2,14%;Software;NY;Latham
+181;Quattro Climate Control;2,14%;Construction;AZ;Scottsdale
+182;Deako;2,14%;Consumer Products;WA;seattle
+178;Advanced Tech Placement;2,15%;Business Products & Services;GA;Marietta
+179;Visit.org;2,15%;Software;NY;New York
+180;RentRedi;2,14%;Software;NY;Latham
+181;Quattro Climate Control;2,14%;Construction;AZ;Scottsdale
+182;Deako;2,14%;Consumer Products;WA;seattle
+183;OLIPOP;2,13%;Food & Beverage;CA;Oakland
+184;CookUnity;2,13%;Food & Beverage;NY;Brooklyn
+185;Kwikly Dental Staffing;2,12%;Health Services;MN;Coon Rapids
+186;Minerva Marketing;2,11%;Advertising & Marketing;FL;Fort Lauderdale
+187;TopDog Law;2,08%;Legal;PA;MEDIA
+188;GXC;2,07%;Security;NY;Huntington
+189;Kickfin;2,07%;Software;TX;Austin
+190;Windval Technology Solutions;2,06%;IT Services;IL;Oak Brook
+191;American Farm Company;2,04%;Retail;IA;Hospers
+192;Harness;2,04%;Financial Services;NY;New York
+193;Simple Homes;2,03%;Construction;CO;Denver
+194;Dunn Transport;2,02%;Logistics & Transportation;CA;Fresno
+195;Ensemble Performing Arts;2,02%;Education;CO;Louisville
+196;Recovery.com;2,01%;Health Services;WI;Madison
+197;Tenon Tours;2,01%;Travel & Hospitality;MA;Reading
+198;At-Bay;2,01%;Insurance;CA;Mountain View
+199;iLoan;2,00%;Financial Services;IL;Chicago
+200;PRS Global;2,00%;Health Services;TN;White House
+201;Aditude;2,00%;Advertising & Marketing;NY;Bronxville
+202;Melone Hatley;2,00%;Legal;VA;Virignia Beach
+203;Chunker;1,99%;Business Products & Services;UT;Draper
+204;Intown Golf Club;1,96%;Travel & Hospitality;GA;Atlanta
+205;Body20;1,96%;Consumer Products;FL;MIAMI
+206;Dlivrd;1,95%;Food & Beverage;PA;Glenside
+207;Demons Behind Me;1,94%;Retail;FL;Jacksonville
+208;Western Veterinary Partners;1,93%;Health Services;CO;Denver
+209;Turtlebox Audio;1,91%;Consumer Products;TX;Houston
+210;Fun Express;1,90%;Human Resources;CA;Irvine
+211;72SOLD;1,90%;Real Estate;AZ;Scottsdale
+212;Pinwheel;1,89%;Consumer Products;TX;Austin
+213;HVN Travel Group;1,89%;Travel & Hospitality;FL;St. Petersburg
+214;The DPS;1,88%;Manufacturing;CA;Irvine
+209;Turtlebox Audio;1,91%;Consumer Products;TX;Houston
+210;Fun Express;1,90%;Human Resources;CA;Irvine
+211;72SOLD;1,90%;Real Estate;AZ;Scottsdale
+212;Pinwheel;1,89%;Consumer Products;TX;Austin
+213;HVN Travel Group;1,89%;Travel & Hospitality;FL;St. Petersburg
+214;The DPS;1,88%;Manufacturing;CA;Irvine
+215;Precision Weld Testing & Training/Precision Inspection Services;1,87%;Energy;LA;Geismar
+216;BaseMonkeys;1,87%;Advertising & Marketing;NC;Raleigh
+217;Relentless Digital;1,87%;Advertising & Marketing;AZ;Queen Creek
+218;adtechnacity;1,83%;Advertising & Marketing;GA;Atlanta
+219;Verde Clean;1,83%;Business Products & Services;AZ;Phoenix
+220;TRNXN;1,83%;Financial Services;CA;Newport Beach
+221;Agile Rebuilt;1,83%;Construction;VA;Round Hill
+222;CrossMed Healthcare Staffing Solutions;1,82%;Human Resources;NE;Omaha
+223;Payabli;1,82%;Financial Services;FL;Miami
+224;Anchored Tiny Homes;1,82%;Construction;CA;Fair Oaks
+225;City Mobile Group;1,81%;Health Services;NM;Albuquerque
+226;Mosaic;1,81%;Software;NY;New York
+227;Trust Roofing;1,80%;Construction;FL;Largo
+228;BeaconFire Staffing Solutions;1,80%;IT Services;NJ;East Windsor
+229;PMR Roofing;1,80%;Construction;TX;Arlington
+230;Instreamatic;1,78%;Advertising & Marketing;FL;Boca Raton
+231;VivaQuant;1,77%;Health Products;MN;Arden Hills
+232;Bespoke Technologies;1,77%;Business Products & Services;VA;Aldie
+233;ANS Geo;1,75%;Engineering;NJ;South Plainfield
+234;Anavate Partners;1,75%;IT Services;AZ;Scottsdale
+235;NationsBenefits;1,74%;Health Services;FL;Plantation
+236;Arine;1,73%;Artificial Intelligence;CA;San Francisco
+237;Discovery House Homes;1,73%;Construction;GA;Hiawassee
+238;Songfinch;1,72%;Consumer Products;IL;Chicago
+239;FREEZ Construction;1,72%;Construction;TX;Frisco
+240;BarTrack;1,70%;Food & Beverage;VA;Ashburn
+241;Incline Insurance Group;1,70%;Insurance;TX;Austin
+242;BayNova;1,70%;IT Services;CA;Newark
+243;CaskX;1,69%;Financial Services;CA;Beverly Hills
+244;T&K Electric Company;1,68%;Construction;AZ;Mesa
+245;Piedmont Global Language Solutions;1,67%;Business Products & Services;VA;Arlington
+240;BarTrack;1,70%;Food & Beverage;VA;Ashburn
+241;Incline Insurance Group;1,70%;Insurance;TX;Austin
+242;BayNova;1,70%;IT Services;CA;Newark
+243;CaskX;1,69%;Financial Services;CA;Beverly Hills
+244;T&K Electric Company;1,68%;Construction;AZ;Mesa
+245;Piedmont Global Language Solutions;1,67%;Business Products & Services;VA;Arlington
+246;ThinkTek;1,66%;Government Services;VA;Fairfax
+247;THIRSTYSPROUT;1,66%;Software;WA;Seattle
+248;LawnValue;1,65%;Construction;TN;Franklin
+249;KSA Technology Partners;1,64%;Human Resources;CA;Coronado
+250;Fromley;1,63%;Real Estate;ID;Boise
+251;4 Pillar Funding;1,62%;Financial Services;NY;Saratoga Springs
+252;FreightPOP;1,62%;Software;CA;Lake Forest
+253;SyncMatters;1,61%;Software;TX;Austin
+254;Fundible;1,61%;Financial Services;NY;Great Neck
+255;Jetset World Travel;1,61%;Travel & Hospitality;GA;Atlanta
+256;Dossier;1,60%;Consumer Products;NY;New York
+257;Aura Bora;1,60%;Food & Beverage;CA;San Francisco
+258;Hilton Global Associates;1,60%;Business Products & Services;FL;NAPLES
+259;Biller Genie;1,60%;Software;FL;Miami
+260;Medovent Solutions;1,59%;Health Services;FL;St. Petersburg
+261;Veltrust;1,59%;Business Products & Services;DC;Washington
+262;Cloud Bridge Solutions;1,59%;IT Services;MA;Marlborough
+263;Sockrates Custom;1,59%;Manufacturing;FL;Boca Raton
+264;TAP Innovations;1,58%;IT Services;TX;Irving
+265;Golden Bear Recycling;1,58%;Business Products & Services;MD;Middletown
+266;Prestige Worldwide Logistics;1,58%;Logistics & Transportation;MI;Utica
+267;Nucleus Security;1,56%;Software;FL;Sarasota
+268;Rise8;1,56%;Software;FL;Tampa
+269;LaunchTech;1,55%;IT Services;AL;Huntsville
+270;Daily Crunch;1,55%;Food & Beverage;TN;Nashville
+271;Reliant Coffee;1,55%;Food & Beverage;FL;Davie
+272;Wellness Clinic Marketing;1,54%;Advertising & Marketing;FL;Cutler Bay
+273;Atwix;1,54%;Software;IL;Chicago
+301;8bitcreative;1,41%;Advertising & Marketing;WI;Ocononowoc
+302;Gymreapers;1,41%;Retail;ID;Nampa
+303;Byzfunder;1,40%;Financial Services;NY;New York
+304;Spire;1,40%;Human Resources;GA;Atlanta
+305;Netsurit;1,39%;IT Services;NY;New York
+306;Lawnline Marketing;1,38%;Advertising & Marketing;FL;Tampa
+307;Slate Craft Goods;1,37%;Food & Beverage;MA;Westwood
+308;Valor Capital;1,37%;Real Estate;FL;Clearwater
+309;1440;1,37%;Media;IL;Chicago
+310;Codingscape;1,36%;Software;NV;Las Vegas
+311;Virtual Latinos;1,36%;Human Resources;CA;San Diego
+312;Discover Destinations;1,36%;Travel & Hospitality;GA;Duluth
+313;BONbLOC;1,36%;Software;NJ;EDISON
+314;Leap Academy;1,35%;Education;CA;Los Altos
+315;Divelement Web Services;1,35%;Software;TX;Austin
+316;Wedmont Private Capital;1,35%;Financial Services;PA;West Chester
+317;Goldco;1,35%;Retail;CA;Calabasas
+318;Windsor Group;1,35%;Government Services;MD;Bethesda
+319;UserGems;1,34%;Software;CA;San Francisco
+320;Legendary Supply Chain;1,34%;Software;TN;Goodlettsville
+321;Tixr;1,33%;Software;CA;Santa Monica
+322;H2O Care Partners;1,33%;Business Products & Services;MA;Boston
+323;Inclusion Cloud;1,33%;Artificial Intelligence;TX;Dallas
+324;Spartan Investment Group;1,33%;Real Estate;CO;Golden
+325;Curis Functional Health;1,32%;Health Services;TX;Dallas
+326;StemWave;1,32%;Health Products;MA;Boston
+327;Empire National;1,32%;Logistics & Transportation;NC;Fletcher
+328;Regrow;1,31%;Software;NH;Durham
+329;LeadZod;1,31%;Advertising & Marketing;NC;Charlotte
+330;Copyleaks;1,31%;Software;CT;Stamford
+331;Greenlife Healthcare Staffing;1,31%;Human Resources;FL;Tampa
+332;Amundson Group;1,31%;Human Resources;TX;Houston
+333;Little Sleepies;1,31%;Retail;CA;Los Angeles
+334;HCM Unlocked;1,29%;Software;FL;MIAMI
+335;Aberdeen Advisors;1,29%;IT Services;IL;Chicago
+331;Greenlife Healthcare Staffing;1,31%;Human Resources;FL;Tampa
+332;Amundson Group;1,31%;Human Resources;TX;Houston
+333;Little Sleepies;1,31%;Retail;CA;Los Angeles
+334;HCM Unlocked;1,29%;Software;FL;MIAMI
+335;Aberdeen Advisors;1,29%;IT Services;IL;Chicago
+336;Crown Point Systems;1,29%;Government Services;CA;SAN DIEGO
+337;Valiant Business Lending;1,29%;Financial Services;TX;Houston
+338;OnPoint Warranty Solutions;1,29%;Business Products & Services;KY;Louisville
+339;rockITdata;1,27%;Government Services;PA;Philadelphia
+340;Ladies & Luggage Luxury Travel Group;1,27%;Travel & Hospitality;GA;Winston
+341;Pulse Clinical Alliance;1,27%;Health Services;FL;Jacksonville
+342;Just Ingredients;1,27%;Consumer Products;UT;orem
+343;Larken;1,26%;Retail;OK;Oklahoma City
+344;Roers Companies;1,26%;Real Estate;MN;Plymouth
+345;Momentous;1,26%;Health Services;UT;Park City
+346;Serionix;1,26%;Consumer Products;IL;Champaign
+347;Cymbiotika;1,26%;Consumer Products;CA;San Diego
+348;WECO Hospitality;1,25%;Food & Beverage;NH;Salem
+349;Terco Enterprises;1,25%;Construction;NJ;Lafayette
+350;InnoActive Group;1,25%;Business Products & Services;CA;San Francisco
+351;Sergeant Sudz;1,25%;Manufacturing;TN;Greeneville
+352;Tactacam;1,24%;Consumer Products;IA;Decorah
+353;Blackout Coffee Co.;1,24%;Food & Beverage;FL;Fort Pierce
+354;Horatio;1,24%;Business Products & Services;NY;New York
+355;ChicknLegs;1,24%;Consumer Products;NC;Cary
+356;Integris;1,23%;IT Services;NJ;Cranbury Township
+357;Bloom Nutrition;1,22%;Consumer Products;CA;Venice
+358;Laughland Sciences;1,22%;Consumer Products;CA;Venice
+359;CoFi;1,21%;Financial Services;UT;Lindon
+360;LIFT Enrichment;1,21%;Education;AZ;Scottsdale
+361;Whet Travel;1,21%;Travel & Hospitality;FL;Fort Lauderdale
+362;Compare Credit;1,20%;Financial Services;SC;Charleston
+363;Esper;1,20%;IT Services;WA;Bellevue
+364;Energized Health;1,20%;Health Services;TN;Brentwood
+365;Curated Vacation Properties;1,20%;Travel & Hospitality;SC;Mount Pleasant
+269;LaunchTech;1,55%;IT Services;AL;Huntsville
+270;Daily Crunch;1,55%;Food & Beverage;TN;Nashville
+271;Reliant Coffee;1,55%;Food & Beverage;FL;Davie
+272;Wellness Clinic Marketing;1,54%;Advertising & Marketing;FL;Cutler Bay
+273;Atwix;1,54%;Software;IL;Chicago
+274;P.S.;1,54%;Consumer Products;CA;Chino Hills
+275;Winnie;1,54%;Consumer Services;CA;San Mateo
+276;BODYBAR Pilates;1,53%;Health Services;TX;fort worth
+277;RealEstateAccounting.co;1,52%;Business Products & Services;CA;San Diego
+278;Royal Logistics & Transportation;1,52%;Logistics & Transportation;MI;Grand Rapids
+279;Ultra Cryo & Recovery;1,52%;Health Services;FL;Auburndale
+280;Blankfactor;1,52%;Software;FL;Miami
+281;Studs;1,51%;Retail;NY;New York
+282;3C Industries;1,51%;Construction;OH;urbana
+283;Totem;1,51%;Business Products & Services;DC;Washington
+284;Adcomm MDU;1,50%;Telecommunications;FL;Navarre
+285;Charter Research;1,50%;Health Services;FL;Winter Park
+286;Authors On Mission;1,50%;Advertising & Marketing;NY;New York
+287;24HourNurse Staffing;1,49%;Human Resources;TX;Pittsburg
+288;Andworx;1,49%;Software;VA;Falls Church
+289;Connsci;1,48%;Government Services;MD;Gaithersburg
+290;Valoroo;1,48%;Logistics & Transportation;CA;San Diego
+291;DIGITALZONE;1,47%;Advertising & Marketing;NY;New York
+292;Launch Fulfillment;1,47%;Logistics & Transportation;UT;vineyard
+293;PWG Network Solutions;1,44%;Telecommunications;MD;ROCKVILLE
+294;Aalis Management Consulting;1,44%;Government Services;VA;Woodbridge
+295;evolv Consulting;1,44%;Business Products & Services;TX;Dallas
+296;EdSights;1,43%;Education;NY;Brooklyn
+297;Strike Tax Advisory;1,43%;Financial Services;ID;Boise
+298;Continuum Health IT;1,43%;Health Services;FL;Ponte Vedra Beach
+299;Five Star Parks & Attractions;1,41%;Travel & Hospitality;NC;Charlotte
+300;Health Advocates Network;1,41%;Human Resources;FL;Boca Raton
+301;8bitcreative;1,41%;Advertising & Marketing;WI;Ocononowoc
+302;Gymreapers;1,41%;Retail;ID;Nampa
+303;Byzfunder;1,40%;Financial Services;NY;New York
+304;Spire;1,40%;Human Resources;GA;Atlanta
+362;Compare Credit;1,20%;Financial Services;SC;Charleston
+363;Esper;1,20%;IT Services;WA;Bellevue
+364;Energized Health;1,20%;Health Services;TN;Brentwood
+365;Curated Vacation Properties;1,20%;Travel & Hospitality;SC;Mount Pleasant
+366;Jiffy Junk Franchising;1,20%;Logistics & Transportation;NY;West Babylon
+367;Strategic Office Support;1,19%;Business Products & Services;TX;Houston
+368;Ardent Fitness;1,19%;Retail;MA;Lenox
+369;Talon;1,19%;Software;NH;Portsmouth
+370;Speak Your Way To Cash;1,19%;Business Products & Services;GA;Johns Creek
+371;MVP Builders;1,19%;Construction;CA;Van Nuys
+372;AMA Consulting Group;1,18%;Government Services;FL;Winter Park
+373;Lula;1,18%;Business Products & Services;KS;Overland Park
+374;Suite Experience Group;1,17%;Software;CA;San Francisco
+375;Dorado Nutrition;1,17%;Health Products;CA;Sheridan
+376;Dobbs Defense Solutions;1,17%;Government Services;MD;Baltimore
+377;Danielhouse Club;1,17%;Business Products & Services;OR;Portland
+378;RBM Plumbing Systems;1,16%;Construction;NC;Holly Springs
+379;LifeVac;1,16%;Health Products;NY;Nesconset
+380;Quartz Properties;1,16%;Construction;MA;Auburndale
+381;DNA Logistix Management;1,16%;Logistics & Transportation;VA;Ashburn
+382;Blazy Susan;1,16%;Consumer Products;CO;Denver
+383;Artisan Drywall;1,16%;Construction;PA;Middletown
+384;Guardian Dentistry;1,15%;Health Services;FL;Miami
+385;Raydiant;1,15%;Software;CA;San Francisco
+386;TRANSFAST LOGISTICS;1,15%;Logistics & Transportation;MI;GRAND LEDGE
+387;Vestaboard;1,15%;Consumer Products;CA;Palo Alto
+388;Manhole Covers Direct;1,14%;Manufacturing;NJ;Boonton
+389;Drive Digital Advertising;1,14%;Advertising & Marketing;MI;St. Clair Shores
+390;Wright Landscaping;1,14%;Construction;UT;South Jordan
+391;Directed IRA;1,13%;Financial Services;AZ;Phoenix
+392;Gamesight;1,13%;Advertising & Marketing;WA;Seattle
+393;Richmond Vona;1,12%;Legal;NY;Buffalo
+394;Curacity;1,11%;Travel & Hospitality;NY;New York
+395;Dr. Contact Lens;1,11%;Health Products;FL;Plantation
+396;Bgesh, Incorporated;1,11%;Business Products & Services;TX;La Vernia
+389;Drive Digital Advertising;1,14%;Advertising & Marketing;MI;St. Clair Shores
+390;Wright Landscaping;1,14%;Construction;UT;South Jordan
+391;Directed IRA;1,13%;Financial Services;AZ;Phoenix
+392;Gamesight;1,13%;Advertising & Marketing;WA;Seattle
+393;Richmond Vona;1,12%;Legal;NY;Buffalo
+394;Curacity;1,11%;Travel & Hospitality;NY;New York
+395;Dr. Contact Lens;1,11%;Health Products;FL;Plantation
+396;Bgesh, Incorporated;1,11%;Business Products & Services;TX;La Vernia
+397;JMA Resources;1,11%;IT Services;PA;Mechanicsburg
+398;Werkt;1,10%;Advertising & Marketing;UT;Lehi
+399;Beehive Meals;1,10%;Food & Beverage;UT;Layton
+400;Missio;1,10%;Advertising & Marketing;GA;Buford
+401;10xTravel;1,10%;Media;TX;Houston
+402;J29;1,10%;Government Services;MD;Millersville
+403;Fresh Marketing;1,10%;Advertising & Marketing;MO;Saint Louis
+404;Mile Auto;1,10%;Insurance;GA;Atlanta
+405;Everest Ice and Water Systems;1,09%;Business Products & Services;FL;Apopka
+406;The Scientific Group;1,09%;Business Products & Services;NY;Maspeth
+407;Handsfree Labs/Kizik;1,09%;Consumer Products;UT;Lindon
+408;Razor;1,09%;IT Services;NJ;Short Hills
+409;Glowbar;1,09%;Consumer Services;NY;New York
+410;Evans Industrial;1,09%;Construction;CA;IRVINE
+411;Capital Rx;1,09%;Health Services;NY;New York
+412;WorkWhile;1,08%;Human Resources;CA;San Francisco
+413;Arc Health;1,08%;Human Resources;OR;Redmond
+414;UPKEEP;1,08%;Consumer Services;NY;New York
+415;Incline Marketing;1,08%;Advertising & Marketing;FL;St. Petersburg
+416;Big Sky Landscapes;1,07%;Construction;TN;Chattanooga
+417;Veda Data Solutions;1,07%;Software;WI;Madison
+418;Law Firm of Moumita Rahman PLLC;1,06%;Legal;NY;New York
+419;BK Beauty;1,06%;Consumer Products;TX;Austin
+420;Patriot Conceptions;1,06%;Health Services;CA;Costa Mesa
+421;American Rooter & Drain''';1,06%;Business Products & Services;ID;Caldwell
+422;Coral port;1,06%;Logistics & Transportation;CA;sacramento
+423;Next Dimension Construction & Roofing;1,06%;Construction;FL;Summerfield
+424;Pulse;1,06%;Software;LA;Baton Rouge
