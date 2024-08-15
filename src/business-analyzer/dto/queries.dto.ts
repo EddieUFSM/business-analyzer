@@ -13,6 +13,10 @@ export class QueriesBusinessDto {
   @IsOptional()
   industry?: string;
 
+  @IsString()
+  @IsOptional()
+  isItAnalyzed?: string;
+
   @IsNumber()
   @IsOptional()
   limit?: number;
@@ -20,4 +24,8 @@ export class QueriesBusinessDto {
   @IsNumber()
   @IsOptional()
   offset?: number;
+
+  @IsString()
+  @IsOptional()
+  sortBy?: string;
 }

@@ -16,7 +16,6 @@ export class BusinessService implements OnModuleInit {
 
   async onModuleInit() {
     return;
-    await this.loadDataFromFile();
   }
 
   async create(createBusinessDto: CreateBusinessDto) {
@@ -24,9 +23,14 @@ export class BusinessService implements OnModuleInit {
   }
 
   async findAll(queries: QueriesBusinessDto): Promise<Business[]> {
-    const { limit, offset, ...filters } = queries;
+    const { limit, offset, sortBy, ...filters } = queries;
 
-    const query = this.businessModel.find(filters);
+    const queryFilter: any = {
+      isItAnalyzed: Boolean(filters.isItAnalyzed),
+      ...filters,
+    };
+
+    const query = this.businessModel.find(queryFilter);
 
     if (limit) {
       query.limit(limit);
@@ -34,6 +38,14 @@ export class BusinessService implements OnModuleInit {
 
     if (offset) {
       query.skip(offset);
+    }
+
+    if (sortBy) {
+      // Verifica se sortBy é um objeto que contém o nome do campo e a ordem (asc/desc)
+      const [field, order] = sortBy.split(':');
+      const sortOrder = -1;
+      //order === 'desc' ? -1 : 1;
+      query.sort({ [field]: sortOrder });
     }
 
     return query.exec();
@@ -51,46 +63,5 @@ export class BusinessService implements OnModuleInit {
 
   remove(id: string) {
     return this.businessModel.findByIdAndDelete(id);
-  }
-
-  private async loadDataFromFile() {
-    const filePath = path.join(__dirname, '../..', 'research.txt');
-    const fileContent = await fs.readFile(filePath, 'utf8');
-    const lines = fileContent.trim().split('\n');
-
-    // Verifique o número de linhas lidas
-    console.log(`Number of lines read: ${lines.length}`);
-
-    // Se o arquivo contém um cabeçalho, ignore a primeira linha
-    const dataLines = lines; // Use todas as linhas se não houver cabeçalho
-
-    const businesses = dataLines
-      .map(async (line, index) => {
-        console.log(`Processing line ${index + 1}: ${line}`);
-        const [rank, company, threeYearGrowth, industry, state, city] =
-          line.split(';');
-
-        // Verifique e logue o valor de rank
-        const rankNumber = parseInt(rank, 10);
-        if (isNaN(rankNumber)) {
-          console.error(`Invalid rank value: ${rank} at line ${index + 1}`);
-          return null; // Ignorar registros com rank inválido
-        }
-
-        // Logue os dados que serão inseridos
-        const business = {
-          rank: rankNumber,
-          company: company.trim(), // Remover espaços em branco extras
-          three_year_growth: threeYearGrowth.trim(), // Remover espaços em branco extras
-          industry: industry.trim(), // Remover espaços em branco extras
-          state: state.trim(), // Remover espaços em branco extras
-          city: city ? city.trim() : '', // Remover espaços em branco extras
-        };
-        console.log(`Parsed business data: ${JSON.stringify(business)}`);
-        return await this.businessModel.create(business);
-      })
-      .filter((record) => record !== null); // Remova registros inválidos
-
-    console.log(`Number of valid records to insert: ${businesses.length}`);
   }
 }

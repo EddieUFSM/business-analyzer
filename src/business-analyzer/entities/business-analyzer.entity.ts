@@ -42,9 +42,9 @@ export class Business extends Document {
   company: string;
 
   @Prop({
-    type: String,
+    type: Number,
   })
-  three_year_growth: string;
+  three_year_growth: number;
 
   @Prop({
     type: String,
@@ -65,6 +65,12 @@ export class Business extends Document {
     type: String,
   })
   analysis?: string;
+
+  @Prop({
+    type: Boolean,
+    default: false,
+  })
+  isItAnalyzed?: boolean;
 
   @Prop({
     default: false,

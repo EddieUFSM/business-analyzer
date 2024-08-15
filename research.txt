@@ -76,8 +76,7 @@
 72;StatPearls;4,03%;Education;FL;St Petersburg
 73;Earp Aviation Repairs;4,00%;Logistics & Transportation;AZ;Chandler
 74;wildwonder Brands;3,99%;Food & Beverage;CA;South San Francisco
-86;Viva Finance;3,70%;Financial Services;GA
-Atlanta
+86;Viva Finance;3,70%;Financial Services;GA;Atlanta
 87;Nectar;3,67%;Software;UT;Orem
 88;UMortgage;3,64%;Financial Services;PA;Philadelphia
 89;Dhanani Private Equity Group;3,62%;Real Estate;TX;Stafford

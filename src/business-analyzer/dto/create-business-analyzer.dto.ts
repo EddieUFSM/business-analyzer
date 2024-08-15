@@ -30,8 +30,8 @@ export class CreateBusinessDto {
   @IsString()
   company: string;
 
-  @IsString()
-  three_year_growth: string;
+  @IsNumber()
+  three_year_growth: number;
 
   @IsString()
   industry: string;
@@ -67,4 +67,8 @@ export class CreateBusinessDto {
   @IsOptional()
   @Type(() => Product)
   products?: Product[];
+
+  @IsBoolean()
+  @IsOptional()
+  isItAnalyzed?: boolean;
 }
